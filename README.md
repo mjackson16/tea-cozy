@@ -1,1 +1,1 @@
-# tea-cozy-responsive
+# Tea Cozy
