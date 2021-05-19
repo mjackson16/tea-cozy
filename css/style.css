@@ -50,7 +50,7 @@ nav {
 #mission{
     height: 700px;
     padding: 0;
-    background: url("/img/img-mission-background.jpg") no-repeat;
+    background: url("../img/img-mission-background.jpg") no-repeat;
     background-size: cover;
     margin-bottom: 20px;
     margin-left: 5px;
@@ -97,7 +97,7 @@ nav {
 
 
 .locations {
-    background: url("/img/img-locations-background.jpg") no-repeat;
+    background: url("../img/img-locations-background.jpg") no-repeat;
     background-size: cover;
     height: 500px;
     margin-top: 75px;
