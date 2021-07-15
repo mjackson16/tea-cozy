@@ -66,12 +66,12 @@ nav {
     width: 100%;
 }
 
-.store h2 {
+#store h2 {
     margin-top: 75px;
     padding: 0;
 }
 
-.store {
+#store {
     width: 1000px;
     margin: 0 auto;
 }
@@ -96,7 +96,7 @@ nav {
 }
 
 
-.locations {
+#locations {
     background: url("../img/img-locations-background.jpg") no-repeat;
     background-size: cover;
     height: 500px;
@@ -120,7 +120,7 @@ p{
     padding: 5px 0;
 }
 
-.locations h2 {
+#locations h2 {
     margin: 0;
 }
 
